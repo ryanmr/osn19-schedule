@@ -1,0 +1,458 @@
+[
+  {
+    "eventTitle": "Registration",
+    "eventTime": "8:00 - 9:00",
+    "eventSpeakers": [],
+    "eventDetails": "",
+    "track": "",
+    "room": ""
+  },
+  {
+    "eventTitle": "Welcoming Remarks",
+    "eventTime": "9:00 - 9:10",
+    "eventSpeakers": [],
+    "eventDetails": "",
+    "track": "",
+    "room": ""
+  },
+  {
+    "eventTitle": "Prize Drawings",
+    "eventTime": "4:20 - 4:30",
+    "eventSpeakers": [],
+    "eventDetails": "",
+    "track": "",
+    "room": ""
+  },
+  {
+    "eventTitle": "Complimentary Happy Hour (on-site)",
+    "eventTime": "4:30 - 6:30",
+    "eventSpeakers": [],
+    "eventDetails": "",
+    "track": "",
+    "room": ""
+  },
+  {
+    "eventTitle": "From SharePoint to GatsbyJS- A History of Static Site Generator",
+    "eventTime": "9:15 - 10:15",
+    "eventSpeakers": [
+      "David Nguyen, Lead Engineer, Target",
+      "Kin Wong, Senior Software Engineer | Coach, Target"
+    ],
+    "eventDetails": "Come to hear David talk about why many development teams at Target selected GatsbyJS as a platform of choice for Static Site Generator. He will share about how this journey helped blur the line between developer and user experiences. He will explain how development teams transitioned from Sharepoint documentation site to a progressive web application for engineering portal. Understand why having a great product is no longer enough, but a great documentation site is also pivotal to the adoption rate among consumers.",
+    "track": "Track 1",
+    "room": "Auditorium"
+  },
+  {
+    "eventTitle": "Navigating Front-end Architecture Like a Neopian",
+    "eventTime": "10:35 - 11:35",
+    "eventSpeakers": [
+      "Julia Nguyen, Senior Software, MailChimp"
+    ],
+    "eventDetails": "Over the past few years, I’ve gained expertise in front-end web architecture. I’ve done this work at Indiegogo, Headspace, for my open source mental health project if-me.org, and in my current role at Mailchimp. At Indiegogo, we evaluated frameworks in an effort to migrate from AngularJS. At Headspace, I architected an MVP in React and created best practices. With if-me.org, we migrated to React from jQuery. At Mailchimp, we are migrating from Dojo to React.\nThis talk isn’t about comparing frameworks, but rather the art of front-end architecture. Since I wouldn’t be where I am today without the virtual pets site Neopets, I’ll be sharing the lessons I’ve learned in building out a sustainable team, prioritizing focus areas, evangelizing best practices, and advancing your career along the way. It’s like being a kid in the 2000s hustling for Neopoints and the coolest guild on the interwebs! I’ll share insights on team communication, docs, testing, performance, accessibility, component design, and refactoring.",
+    "track": "Track 1",
+    "room": "P0808"
+  },
+  {
+    "eventTitle": "The Power of Hooks in React",
+    "eventTime": "12:35 - 1:00",
+    "eventSpeakers": [
+      "Aaron Ackerman, Senior Site Reliability Engineer, Movable Ink"
+    ],
+    "eventDetails": "Hooks are a powerful new feature in React that can be used to build functional components with state. In previous versions of React functional components could only be stateless, only able to pass props to render visuals. It was always necessary to use class based components when state was involved. With hooks this is no longer the case. In this session I’ll show an overview of how the built-in hooks can be used, how you can layer hooks together, and even create your own hooks.\nJoin this session to see hands-on examples of you can simplify class-based components with lifecycle methods into stateful functional components with hooks.",
+    "track": "Track 1",
+    "room": "P0808"
+  },
+  {
+    "eventTitle": "What’s New With Vue?",
+    "eventTime": "1:10 - 1:35",
+    "eventSpeakers": [
+      "Casie Siekman, Consultant, sdg"
+    ],
+    "eventDetails": "I will be attending the Vue.js Conference in Florida in March to learn all about the new things happening with Vue – from the leaders themselves! I plan to bring back that experience and boil it down to share the most exciting new developments within the Vue community.",
+    "track": "Track 1",
+    "room": "K1450/Garden Room"
+  },
+  {
+    "eventTitle": "Practical Single Page Applications with Server Side Rendering Using Next.js",
+    "eventTime": "1:55 - 2:55",
+    "eventSpeakers": [
+      "Matt Ruby, Principle Engineer, Bluestem Brands"
+    ],
+    "eventDetails": "Next.js has brought a new set of tools to the web development table. Single page applications with server side rendering are no longer the challenge they once were. But as you begin to leverage your newfound power you’ll stumble upon new challenges. We’ll discuss what Next.js is, how to use it and how to overcome a few common issues.",
+    "track": "Track 1",
+    "room": "K1450/Garden Room"
+  },
+  {
+    "eventTitle": "Automating your Repository Maintenance Workflows",
+    "eventTime": "3:15 - 4:15",
+    "eventSpeakers": [
+      "Philip Holleran, Solutions Engineer, GitHub"
+    ],
+    "eventDetails": "Maintaining repositories on GitHub can be a challenge, especially as your community grows. During this session, Philip Holleran, a Solutions Engineer from GitHub, will discuss a number of strategies for automating common repository maintenance workflows. He will discuss how to use Probot, a framework for developing GitHub automations using NodeJS, and GitHub Actions (presently in Beta) to create automated workflows that reduce the administrative burden of being a repository maintainer.",
+    "track": "Track 1",
+    "room": "P0808"
+  },
+  {
+    "eventTitle": "Serverless Computing at Optum",
+    "eventTime": "9:15 - 10:15",
+    "eventSpeakers": [
+      "Janani Pathangi, Distinguished Engineer, Optum"
+    ],
+    "eventDetails": "In this session, we will discuss introduction to Serverless computing, the various open source options available and how Optum is using serverless for healthcare and ITOps use cases.",
+    "track": "Track 2",
+    "room": "K1450/Garden Room"
+  },
+  {
+    "eventTitle": "Optimizing for the Cloud",
+    "eventTime": "10:35 - 11:35",
+    "eventSpeakers": [
+      "Mike Benkovich, Owner, Imagine Technologies, Inc."
+    ],
+    "eventDetails": "Developing applications that run in the cloud is different from other platforms not only because the virtualization technologies allow us to move more quickly towards more modern software architectures, but also because the patterns and processes we follow to get there are rapidly evolving. It requires knowledge of not just the services but also the tools available that enable us to deliver on that promise in order to see the full benefits of Azure. In this session we take the developers view and explore how to start building cloud aware apps using the latest tools available, and then optimize them to take advantage of features like analytics, identity, and connectivity with other cloud services.",
+    "track": "Track 2",
+    "room": "P0838"
+  },
+  {
+    "eventTitle": "Cloud Migration Methodology with a Pinch of AWS",
+    "eventTime": "12:35 - 1:00",
+    "eventSpeakers": [
+      "Sean Feeney, Cloud Engineering , Nerdery"
+    ],
+    "eventDetails": "So, you want to move your application(s) to the cloud? Or maybe you don’t, and management is forcing it on you? Either way, you’ll save yourself some time (and face) by doing some upfront planning and making informed decisions on which cloud services you’ll utilize. We’ll cover those decisions as well as AWS-specific migration tooling available to ease the pain.",
+    "track": "Track 2",
+    "room": "K1450/Garden Room"
+  },
+  {
+    "eventTitle": "Delivering Stateful applications on Kubernetes with Operators",
+    "eventTime": "1:10 - 1:35",
+    "eventSpeakers": [
+      "Keith Resar, Kubernetes Architect, Red Hat"
+    ],
+    "eventDetails": "While Kubernetes has owned the stateless application space for years, the introduction of the operator pattern extends its reign to stateful applications as well.\nLearn what the operator pattern is and how its implemented within Kubernetes.\nExplore how Operators define application-aware Kubernetes objects that scale, recover from failure, manage version upgrades, and support backup/restore processes.\nLastly, explore the frameworks available for creating your own operators and examine all the data vendors who are already offering their applications via operators.",
+    "track": "Track 2",
+    "room": "Auditorium"
+  },
+  {
+    "eventTitle": "Leveraging Envoy Proxy and GraphQL to Lower the Risk of Monolith to Microservice Migration",
+    "eventTime": "1:55 - 2:55",
+    "eventSpeakers": [
+      "Christian Posta, Field CTO, solo.io"
+    ],
+    "eventDetails": "If you have an existing Java monolith, you know you must take care making changes to it or altering it in any negative way. Often times these monoliths are very valuable to the business and generate a lot of revenue. At the same time, since it’s difficult to make changes to the monolith it’s desirable to move to a microservices architecture. Unfortunately you cannot just do a big-bang migration to a greenfield architecture and will have to incrementally adopt microservices. In this talk, we’ll look at using Gloo proxy which is based on Envoy Proxy and GraphQL to do surgical, function-level traffic control and API aggregation to safely migrate your monolith to microservices and serverless functions.",
+    "track": "Track 2",
+    "room": "Auditorium"
+  },
+  {
+    "eventTitle": "Knative- Bringing Serverless to K8s",
+    "eventTime": "3:15 - 4:15",
+    "eventSpeakers": [
+      "Andrew Ripka, Customer Engineer, Google"
+    ],
+    "eventDetails": "Kubernetes has become the “defacto” container scheduler, but in order to solve business challenges developers need to be less burdened by infrastructure plumbing and decisions, and organizations need the benefits of more consistency across application deployments. In this talk we will explore Knative and how it brings serverless deployment consistency to developers and operations teams on top of K8s.",
+    "track": "Track 2",
+    "room": "Auditorium"
+  },
+  {
+    "eventTitle": "Elasticsearch at Scale",
+    "eventTime": "9:15 - 10:15",
+    "eventSpeakers": [
+      "Chris Montgomery, Principal Software Engineer, Code42"
+    ],
+    "eventDetails": "Elasticsearch is a great tool for distributed searching and analytics, at scale. It has a fabulous out-of-the-box experience, and scales horizontally to handle petabytes of data. Of course, it is not magic. Elasticsearch has its limitations too. If you are aware of those limitations and work with them, the growing process will be pleasant. If you treat Elasticsearch badly, you could be in for a world of pain.\nHear the story of how Code42 built a file metadata search product with tens of billions of documents on top of Elasticsearch. Relive their harrowing journey through bulk queue exceptions, over-sized shards, and crushed clusters. They made the mistakes, so you don’t have to!",
+    "track": "Track 3",
+    "room": "P0808"
+  },
+  {
+    "eventTitle": "Elasticsearch as a Data Store",
+    "eventTime": "10:35 - 11:35",
+    "eventSpeakers": [
+      "Michael Heldebrant, Solutions Architect, Elastic"
+    ],
+    "eventDetails": "Many know of the Elasticsearch as a component of the “ELK” stack for logging, metrics, and apm. This talk will teach you how to harness the power of Elasticsearch for use as an application back end data store. We will cover topics ranging from how to organize your information into documents and architect a search oriented Elasticsearch cluster and how to apply the extensive features of the Elasticsearch query dsl to power your applications with search and analytics on your data.",
+    "track": "Track 3",
+    "room": "P0806"
+  },
+  {
+    "eventTitle": "Tell Web Ads to Shut Their Pi-hole!",
+    "eventTime": "12:35 - 1:00",
+    "eventSpeakers": [
+      "Robert Boedigheimer, Principal Systems Developer, Schwans Shared Services"
+    ],
+    "eventDetails": "Speed up your browsing and protect your privacy and security by setting up a Pi-hole! It is free small DNS server that is “a black hole for Internet advertisements” that runs on a Raspberry Pi. We’ll talk briefly about the Raspberry Pi, then learn how to setup Pi-hole on your home network for use with all of your devices. With a low cost Raspberry Pi and an hour of setup time, we now surf faster and more securely, with nearly 40% of our DNS queries blocked. Its amazing how much more enjoyable using the web can be, you’ll cry when you have to surf without it.",
+    "track": "Track 3",
+    "room": "P0838"
+  },
+  {
+    "eventTitle": "Building an Infrastructure Lab in Hyper-V",
+    "eventTime": "1:10 - 1:35",
+    "eventSpeakers": [
+      "Esten Rye, Senior Software Engineer , Protolabs"
+    ],
+    "eventDetails": "In this presentation I will discuss how I built a virtual infrastructure lab for use in evaluating and testing Defense in Depth strategies using Vagrant, Ansible and Hyper-V. I’ll cover some of the challenges Hyper-V presents to this kind of automation and cover the workarounds I used to overcome them. Lastly I will demonstrate the environment I built using Ansible that includes centralized authentication with OpenLDAP, centralized logging and performance monitoring using the Elastic ELK stack, NTP, DHCP, DNS and iptables firewall rules.",
+    "track": "Track 3",
+    "room": "P1838"
+  },
+  {
+    "eventTitle": "Building Serverless Apps with MongoDB Stitch",
+    "eventTime": "1:55 - 2:55",
+    "eventSpeakers": [
+      "Matt Kalan, Master Solutions Architect, MongoDB"
+    ],
+    "eventDetails": "Do you want to crank out features the business wants, or spend a lot of time writing code and capacity planning for authentication, authorization, and complicated data access? Of course we all know the answer.\nThis session will begin with a quick overview of the MongoDB ecosystem in the 3 major cloud providers for rapid application building. Then we will walk through a guided tutorial of how to use the MongoDB Stitch serverless platform to build your elastically scalable microservices-based app within minutes, complete with end-user authentication and access rules, on a fully managed MongoDB cluster in your favorite cloud platform.",
+    "track": "Track 3",
+    "room": "P0808"
+  },
+  {
+    "eventTitle": "Path to AI Practice in an Enterprise",
+    "eventTime": "3:15 - 4:15",
+    "eventSpeakers": [
+      "Senthil Kumaran, CTO, Virtuwell"
+    ],
+    "eventDetails": "Machine learning (ML) has achieved considerable successes in recent years and many companies have started using it in Production. Every company wants to get in this bandwagon to stay competitive and is challenged to choose the right technology, recruit and retain data science engineers. The biggest hurdle is to integrate them in to the business. This talk will start from a strategic direction that we took at virtuwell to solve the patient flow prediction to figure out how many Providers we need in a given shift. There are several algorithms to choose from and multiple tools to play with and most companies forget build a framework to bring agile practice in to model deployment. The biggest challenge is how to get your data analysts and software engineers to work in an agile fashion to pre- process data, create models, modify key data sets and deploy them to production and continuously optimize it. We will discuss how we leveraged Automated Machine Learning to accelerate research on Machine Learning on building predictive models. We will see how our journey started with simple MatLab experiment that took us to scikit learn logistic regression to RapidMiner to H20. We will share what key lessons that we learnt on choosing algorithms, Models and features and tools including AutoML. Virtuwell is 24/7 online clinic that helps customers get treatment plans for everyday illnesses and has increased its user base multi fold year over year for the past 9 years. Lastly, we will dive into why monitoring and relearning is critical for model deployments.",
+    "track": "Track 3",
+    "room": "P0806"
+  },
+  {
+    "eventTitle": "Using Our Collected Consumer Data for GOOD, Not Evil",
+    "eventTime": "9:15 - 10:15",
+    "eventSpeakers": [
+      "Randall Larson, Chief Creative Officer , Shinebox",
+      "Julie Haldorson, Vice President, Account Services, Three Deep Marketing"
+    ],
+    "eventDetails": "Collaboration with marketing impacts more than database schemas and API connections. The collective decisions of CTOs, Software Engineers, Solution Architects, and Marketers affect real people in real time. They will affect our capabilities, our market impact, and our innovation. Ultimately though, our decisions will be judged by the users themselves. Our ability to use consumer data to personalize customer experience continues to expand. But how far is too far? When is it an invasion of privacy and when does it go unnoticed as simply being a brand that “gets me?” When it comes to using collected consumer data, how do we do it well AND do it right.\nJulie Haldorson from Three Deep and Randall Larson from Shinebox explore the perils and promise of data personalization and the role the tech industry can play in collaborating with marketing organizations to consider data insights and outcomes at the beginning of projects instead of the end.",
+    "track": "Track 4",
+    "room": "P1838"
+  },
+  {
+    "eventTitle": "Testing for Accessibility",
+    "eventTime": "10:35 - 11:35",
+    "eventSpeakers": [
+      "Cari Tan, Accessibility Engineer , Accessible360"
+    ],
+    "eventDetails": "Incorporating internal accessibility testing into your processes can be a valuable tool regardless of where you are at in your journey towards accessibility. Whether it is for getting an initial quick look of your site’s accessibility level or ensuring that the accessibility updates you are applying are resulting in the expected behaviors, this workshop will help give you the tools and skills to get going. Accessibility testing is also a very important part of ensuring that your digital products remain accessible as they are updated.\nThere are several categories of testing in regards to looking at digital products, but we will focus primarily on two of them, keyboard and screen reader testing, as these are the areas where most accessibility issues stem from. We will also touch on a few other areas for testing and share additional resources for you to dive deeper.",
+    "track": "Track 4",
+    "room": "P1838"
+  },
+  {
+    "eventTitle": "Otters and Project Management Leadership in IT",
+    "eventTime": "12:35 - 1:00",
+    "eventSpeakers": [
+      "Emily Thrash, Senior Project Manager, Perficient"
+    ],
+    "eventDetails": "You Otter be kidding me. Get it. I want to do a fun, enlightening and engaging talk on leading as a Project manager in the IT industry. I will discuss project management leadership and how to build trust with your team, build trust with your client and how to create a community for success. This talk will not be about project plans and how to create them, how to follow Scrum methodologies, but rather how as a Project Manager we set the tone for the team, community, growth and success of the client. How we can move from being a task master to a trusted partner. All the while relating it back to the incredible Otter clans.",
+    "track": "Track 4",
+    "room": "P1808"
+  },
+  {
+    "eventTitle": "Modern Data Visualization",
+    "eventTime": "1:10 - 1:35",
+    "eventSpeakers": [
+      "Ashley Dzick, Principal UX Consultant, SafeNet Consulting"
+    ],
+    "eventDetails": "Big Data, IoT and now Machine Learning give us more data than ever before. We can find significant trends, influence the direction of a company, predict customer behaviors or even just guess if a photo is a cat or a dog. But what do you do with all of this data? We’ll walk through a few examples of both really good and really bad data visualizations, examine some data visualization practices that are still relevant today and discuss how animation, inclusive design and UX are shaping modern datavis.\nParticipants will leave with:\n\nKnowledge of how data visualization is changing with technology\nBest practices for visualizing their Big Data, IoT or ML dataset\nPractical examples they can follow when building their data visualization",
+    "track": "Track 4",
+    "room": "P0806"
+  },
+  {
+    "eventTitle": "Hacking JWTs",
+    "eventTime": "1:55 - 2:55",
+    "eventSpeakers": [
+      "Joel Lord, Developer Evangelist, Auth0"
+    ],
+    "eventDetails": "So you’ve finally secured your APIs. And it uses JWT because everyone else does. But is it secure? JWTs are the new great thing that everyone is talking about, but you need to use them correctly. During this talk, we will see how we can use various attacks to hack into OAuth systems that use JWTs as a token mechanism. From token validation to brute forcing HS256, by seeing the attackers’ point of view the attendees will learn how to better defend themselves and make more secure servers.",
+    "track": "Track 4",
+    "room": "P1838"
+  },
+  {
+    "eventTitle": "What The i18n?!?",
+    "eventTime": "3:15 - 4:15",
+    "eventSpeakers": [
+      "James Landro, Senior Front End Developer, sdg"
+    ],
+    "eventDetails": "Launching a single language, single region website in 2019 are you? The pain of translation and regional concerns is just too painful for you to bear? In this talk I will walk you through how easy it can be and how we can expand our audience like never before with tooling like Transifex, i18n libraries and plain old JSON to achieve our worldwide saturation with minimal overhead.",
+    "track": "Track 4",
+    "room": "K1450/Garden Room"
+  },
+  {
+    "eventTitle": "What’s New in C#8",
+    "eventTime": "9:15 - 10:15",
+    "eventSpeakers": [
+      "Jason Bock, Practice Lead- AppDev.NET, Magenic"
+    ],
+    "eventDetails": "C# is an open-source, mature object oriented language, used by millions of .NET developers, yet its evolution is still underway. In this session, we’ll cover the latest features that have been added to C#8 and how they work in detail so you’ll know when to use them effectively in your new .NET projects. You’ll also see the direction C# may be going with future versions of C#.",
+    "track": "Track 5",
+    "room": "P1808"
+  },
+  {
+    "eventTitle": "Big Data Cloud Adaption",
+    "eventTime": "10:35 - 11:35",
+    "eventSpeakers": [
+      "Anshul Kumar, Director, Data & Innovation, McKesson"
+    ],
+    "eventDetails": "Join McKesson Data and Analytics team on their three year journey from private data centers to Microsoft Azure adaption and an evolving multi-cloud strategy.\nTalk will include engineering topics on native storage, Hadoop clusters, Lucene, server less functions, lean DevOps designs to reduce technical debt, cloud assets scalability and security.",
+    "track": "Track 5",
+    "room": "P1808"
+  },
+  {
+    "eventTitle": "Beyond Microservices- event streaming with Apache Kafka",
+    "eventTime": "12:35 - 1:00",
+    "eventSpeakers": [
+      "Damon Allison, Enterprise Architecture, C.H. Robinson",
+      "Seth Mastous, Enterprise Architect, C.H. Robinson"
+    ],
+    "eventDetails": "Microservice architectures are expensive and difficult to build and maintain at scale. Dependencies become exponential, debugging and transactions are difficult across service boundaries, and releases can require playing a complex game of release plan Tetris across multiple software teams.\nEvent streaming turns microservices inside out – exposing, not encapsulating, the most important asset your system has – data. Teams that have raw access to immutable data streams can combine, transform, enrich, and store it however they like. And because events are published and consumed in real time, systems are highly dynamic and constantly updated. Expensive and slow ETL, batch, or integration operations become unnecessary. And most importantly, event streaming architectures greatly reduce operational complexity and cross-team dependencies, allowing teams to move fast and build things.\nIn this talk, we will build an example event streaming system using Apache Kafka. More importantly, you’ll learn the benefits event streaming brings to building software at scale, how to think in terms of event streams as opposed to services, and understand the best practices and gotchas involved when implementing event streaming.",
+    "track": "Track 5",
+    "room": "Auditorium"
+  },
+  {
+    "eventTitle": "On a Need-to-know Basis: Secret Orchestration With Hashicorp",
+    "eventTime": "1:10 - 1:35",
+    "eventSpeakers": [
+      "Andrew Justen, Product Architect, Cambria"
+    ],
+    "eventDetails": "Micro services and orchestration have solved many challenges and operational inefficiencies. A great devops environment spins up services dynamically. But this can lead to bad security: generic policies with too much access, widely shared passwords and poor visibility into who or what uses which credentials. HashiCorp’s Vault can tame this mess with on-demand credential creation and storage. This session will cover the basics of Vault, and how to integrate it into a CI/CD pipeline.",
+    "track": "Track 5",
+    "room": "P0838"
+  },
+  {
+    "eventTitle": "Invest in Yourself, Others Will Follow",
+    "eventTime": "1:55 - 2:55",
+    "eventSpeakers": [
+      "Andrew Hakala, Engineering Manager, TCF Bank"
+    ],
+    "eventDetails": "Everyone deserves to have that super fantastic workplace or job that you read about in IT success stories. You may currently have this but many in our space do not. How can I improve my craft? How can I transition into the next thing? I didn’t know I wanted to do something like this? If these are the types of questions that run though your head please join us for this panel where engineers, entrepreneurs, and talent professionals from the Twin Cities share their experiences about what has worked (and not worked) for them.",
+    "track": "Track 5",
+    "room": "P0838"
+  },
+  {
+    "eventTitle": "Picture This: Using Visuals to Communicate Your Message",
+    "eventTime": "3:15 - 4:15",
+    "eventSpeakers": [
+      "Jennifer Bonine, VP of Delivery and Solutions , tap I QA"
+    ],
+    "eventDetails": "Ever sit in a strategy review session and get little or no participation from others? Or feel like you left a planning session with a different understanding of what was agreed to? If you feel there must be a more effective way to communicate important information around your strategy and plans and you want a better way to document it so your stakeholders will both understand and engage in providing useful feedback, Jennifer Bonine has a solution for you. Join Jennifer as she describes mind mapping tools and techniques and explore how mind maps can help increase team velocity and communication. Download—on your tablet, phone, or laptop—a free mind mapping tool to try, learn how to use the tool, take a real-life problem and solve it using the tool, and discuss the benefits of mind maps for solving problems and communicating information inside your teams and organizations. Take away a working tool to improve velocity in your sprints, development cycles, and planning sessions.",
+    "track": "Track 5",
+    "room": "P0838"
+  },
+  {
+    "eventTitle": "A Gentle Introduction to Big O",
+    "eventTime": "9:15 - 10:15",
+    "eventSpeakers": [
+      "Joe Karlsson, Dev Advocate, MongoDB"
+    ],
+    "eventDetails": "It is common for coders to jump straight into writing code, without thinking about the best way to do things. Algorithm complexity is just a way to formally measure how fast a program or algorithm runs.\nIt is important to be aware, at least partially, of different algorithm complexities so you don’t end up accidentally writing code that take 10 times longer than necessary. This talk is designed to introduce you to algorithm complexity analysis, and the big O (pronounced “big oh”) notation.",
+    "track": "Track 6",
+    "room": "P0806"
+  },
+  {
+    "eventTitle": "Cypress: Where Automated Web UI Testing Isn’t Just for QA Anymore",
+    "eventTime": "10:35 - 11:35",
+    "eventSpeakers": [
+      "Justin James, Founder & CEO, Let Your Nerd Be Heard"
+    ],
+    "eventDetails": "Today’s fast-moving software delivery environment emphasizes pushing value to production as quickly as possible. “Value to production” implicitly requires high quality—low quality is of little value to anyone! —which means teams need to focus on being able to specify, build, test, and deploy software effectively and quickly. Acceptance testing historically been manually intensive efforts run by a dedicated QA department, resulting in a slower pace of production releases.\nNo longer do we have to make acceptance a manual effort that requires a dedicated QA department. With the release of Cypress, we have a new standard in front-end testing that allows every developer to create acceptance tests. Come learn how you can create fast, easy, and reliable test for anything that runs in a browser regardless of the front-end framework used.\nYou will walk away ready to end the era of “Developers don’t write acceptance tests” and start writing acceptance tests for all of your projects.",
+    "track": "Track 6",
+    "room": "K1450/Garden Room"
+  },
+  {
+    "eventTitle": "The Psychology of Chaos Engineering",
+    "eventTime": "12:35 - 1:00",
+    "eventSpeakers": [
+      "Matty Stratton, DevOps Advocate, PagerDuty"
+    ],
+    "eventDetails": "Chaos Engineering, failure injection, and similar practices have verified benefits to the resilience of systems and infrastructure. But can they provide similar resilience to teams and people? What are the effects and impacts on the humans involved in the systems? This talk will delve into both positive and negative outcomes to all the groups of people involved – including users, engineers, product, and business owners. Using case studies from organizations where chaos engineering has been implemented, we will explore the changes in attitude that these practices create. This talk will include a brief overview of chaos engineering practices for unfamiliar members of the audience, but the main focus will be on human elements. I will discuss successful implementations, as well as challenges faced in teams where chaos was a “success” from a technical perspective, but contained negative impact for the people involved. After seeing this talk, attendees will have a better understanding of the human factors involved in chaos engineering, good practices to care for the people and teams working with chaos, and be even more excited about this practice.",
+    "track": "Track 6",
+    "room": "P0806"
+  },
+  {
+    "eventTitle": "World-Scale AR with React Native",
+    "eventTime": "1:10 - 1:35",
+    "eventSpeakers": [
+      "Brandon Johnson, Software Engineer, Plakeside"
+    ],
+    "eventDetails": "We’ll explore the challenges of implementing a location-based world-scale AR experience in a hybrid JavaScript native app environment. Starting with a review of augmented reality concepts and the principles behind representing real-world locations in AR, we’ll describe some hard-earned lessons we learned while building this functionality into a React Native app.",
+    "track": "Track 6",
+    "room": "P0808"
+  },
+  {
+    "eventTitle": "A NiFi Journey at ICF Next: Streaming large-datasets using Apache NiFi and how to containerize the beast!",
+    "eventTime": "1:55 - 2:55",
+    "eventSpeakers": [
+      "Prachi Sharma, Data Architect, ICF Next",
+      "Niki Anderson, Architect, DevOps, ICF Next"
+    ],
+    "eventDetails": "With so much data being generated in real-time what if we could stream all this data near real-time and provide for data reporting and model training in a tenant-specific model. In this talk we will share our experience behind using Apache NiFi in openshift for real-time data streaming and the use of persistent storage, stateful sets and externalized state management in ZooKeeper, implementation of Scala ZooKeeper client to solve the problem with managing states in ZooKeeper, challenges behind containerized NiFi and how we solved some of the problems we faced. In this presentation, Prachi will collaborate with Niki Anderson DevOps Architect at ICF Olson to walk you through the journey, discuss the pros, and cons of the implementation of Apache NiFi in docker and OpenShift.",
+    "track": "Track 6",
+    "room": "P0806"
+  },
+  {
+    "eventTitle": "Better Every Day- Growing a Learning Culture at Target",
+    "eventTime": "3:15 - 4:15",
+    "eventSpeakers": [
+      "Erica Prairie, Lead Learning & Developing Consultant, Technology, Target"
+    ],
+    "eventDetails": "Over the past three years, Tech at Target has shifted from an outsourced, waterfall model to an in-house Product model leveraging Agile and DevOps practices on teams across Minneapolis, Bangalore and Sunnyvale.  As part of this shift, Target rolled out the “Better Every Day” learning culture campaign.\nBetter Every Day encourages tech talent to continuously learn, drive innovation and share their knowledge across the org. Since 2015, Tech at Target has achieved a nearly 20-percentage point increase in learning culture satisfaction on Target’s annual team member survey and regularly get feedback like, “Working in a true learning culture has been an unbelievable experience, in addition to the growth it has provided for my career.”",
+    "track": "Track 6",
+    "room": "P1808"
+  },
+  {
+    "eventTitle": "Testing Lessons from Failed Projects",
+    "eventTime": "9:15 - 10:15",
+    "eventSpeakers": [
+      "Todd Gardner, President, TrackJS"
+    ],
+    "eventDetails": "Many projects fail because they were improperly tested, and the risks inherent in the software were not exposed with the correct test. In this session, an “enterprise” developer turned business founder shares stories of past failed projects, and how better testing could have prevented it. He’ll challenge how you think about testing, breaking past dogma and false-metrics to get the most out of your time.",
+    "track": "Track 7",
+    "room": "P0838"
+  },
+  {
+    "eventTitle": "It’s Coming From Inside the House: An Inside-Out Approach to NodeJS Application Security",
+    "eventTime": "10:35 - 11:35",
+    "eventSpeakers": [
+      "Yolonda Smith, Lead Infosec Analyst, Target"
+    ],
+    "eventDetails": "Getting application security right often requires that developers have a deeper than average understanding of the security domain. In what other industry is this the case? We don’t have to be M.D.s to get a medical diagnosis; we don’t have to be auto mechanics to get our cars fixed, yet we in security wag our fingers at “iD10t errors” and build grand mousetraps to catch “so obvious” developer missteps, when they may not know what they need to add, change or remove from their applications to make it “secure” in the first place. Furthermore, patterns to address these issues don’t always fit the requirements of the application short or long term, resulting in solutions that only address part of the problem, or worse, are omitted altogether because they are too cumbersome to implement.\nMy answer to this is _spartan–a node application created for developers of node.js applications, not security people. _spartan allows developers to create security policies which address their node app’s (whether it be Desktop, Web, Mobile, IoT or API) specific requirements; it installs & configures the modules to match the policy and; it generates the boilerplate code that developers can import directly into their applications.",
+    "track": "Track 7",
+    "room": "Auditorium"
+  },
+  {
+    "eventTitle": "The Five Whys and Other Lies",
+    "eventTime": "12:35 - 1:00",
+    "eventSpeakers": [
+      "Andy Fleener, Senior Platform Operations Manager, SportsEngine"
+    ],
+    "eventDetails": "Incidents and Accidents are just 1, 2, 3, 4, 5 “whys” away from never happening again! The secret to avoiding that Human Error root cause is to simply stop making mistakes! Once you’re done building an application it’s going to run forever, right?, Right? RIGHT!?!? Anyone who’s run *anything* in production knows that last one isn’t true. What if there were actually effective ways to use incidents and accidents as opportunities to learn? Spoiler alert, the 5 whys, isn’t one of them. Let’s bust some myths of systems and mental models that are actually hurting our ability to learn and grow both as individuals, and organizations. With those myths busted, we can dig into alternatives that really do create the environment based on learning and improvement we so desperately need.",
+    "track": "Track 7",
+    "room": "P1838"
+  },
+  {
+    "eventTitle": "Hardening the Chain: Securing JavaScript Packages from Dependency Attacks",
+    "eventTime": "1:10 - 1:35",
+    "eventSpeakers": [
+      "Eric Kidd, Front-End Domain Lead, Nerdery"
+    ],
+    "eventDetails": "2018 featured multiple high-visibility security vulnerabilities in popular NPM packages – packages with weekly download counts in the millions. The JavaScript ecosystem is ripe for attacks like the one implemented in the `event-stream` vulnerability. This talk will briefly explore the current ecosystem to understand why these attack vectors are being exploited and provide practical answers to the most pressing question: What can be done to protect an application from these vulnerabilities?",
+    "track": "Track 7",
+    "room": "P1808"
+  },
+  {
+    "eventTitle": "Threat Modeling on the Run",
+    "eventTime": "1:55 - 2:55",
+    "eventSpeakers": [
+      "Brian Glas, Assistant Professor, Union University"
+    ],
+    "eventDetails": "Threat modeling feels like a foreign concept to many people, but it’s something we do on a daily basis. If you are standing on a curb looking at traffic and trying to decide whether or not you can cross the street before that car gets to you, you are threat modeling. The driver is a threat actor, and you are trying to determine their capabilities and intent; along with assessing your ability to defend or evade them.\nThreat modeling in an Agile environment is more about having the right mindset and asking the right questions. Spending a little time to think through features from a security perspective can save hours or days of work and rework. Ensuring the proper controls are considered in the early stages greatly increases the chances that the software designed and developed will have fewer vulnerabilities and thus reduce risk to the organization.\nIn this talk, we will discuss the main areas for focus while performing a threat model in an agile environment. By the end of the talk, the audience should have a good understanding of what types of threat modeling can be performed at certain stages of Agile development.",
+    "track": "Track 7",
+    "room": "P1808"
+  },
+  {
+    "eventTitle": "Code Reviews?! That’s a Great Idea!",
+    "eventTime": "3:15 - 4:15",
+    "eventSpeakers": [
+      "Amy Gebhardt, Lead Front-End Software Engineer, SportsEngine"
+    ],
+    "eventDetails": "We all know that code reviews are beneficial. We’ve been told time and time again that they should be part of our development process. But – like most best practices – a practical implementation is challenging (and time consuming). Your team is convinced they are a great idea. You’ll have an opportunity to squash bugs in the least costly of development times, learn new things from your talented teammates, and build a stronger foundation of trust. Awesome. Everyone is on board. But now what? What tools are out there? What are you actually looking for? How often should the reviews happen? In this talk, you’ll get a practical guide to making code reviews effective. Whether you’re the reviewer or reviewee: there are ways to make sure this really is a great idea.",
+    "track": "Track 7",
+    "room": "P1838"
+  }
+]
